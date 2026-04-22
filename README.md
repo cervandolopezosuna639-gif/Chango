@@ -14,3 +14,6 @@ en esta seccion veremos como usar la aplicación_modulo markdown_
 _cursiva_
 **negrita**
 _negrita_
+
+
+<!-- Fix #6 -->
